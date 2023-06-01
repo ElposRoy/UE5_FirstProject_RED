@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealEngine5 Projects/RedFirstProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/MaterialExampleLevel.umap",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/First_material.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/SpanishPavement_basecolor.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/SpanishPavement_normal.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/SpanishPavement_Roughness.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/M_SpanishPavement.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/MI_SpanishPavement_Inst.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/Materials/Palmtree_M.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/TutorialContent/Meshes/Palm.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/I1/26MZ30IJWR8DQC1UFA1ZN6.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KW/IH3X1TA9IFORX35BTEQPKD.uasset",
+				"D:/UnrealEngine5 Projects/RedFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AA/B9UQZUAKT0TR0AG0F8S0S9.uasset"
 			]
 		}
 	]
